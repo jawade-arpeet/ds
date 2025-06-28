@@ -3,6 +3,13 @@
 @theme {
   --color-background: var(--color-white);
   --color-foreground: var(--color-black);
+  --color-primary: rgb(0, 0, 0);
+  --color-primary-foreground: rgb(255, 255, 255);
+  --color-primary-hover: rgb(33, 33, 33);
+  --color-table-head: rgb(224, 224, 224);
+  --color-table-row: rgb(245, 245, 245);
+  --color-table-row-hover: rgb(232, 232, 232);
+  --color-table-divide: rgb(199, 199, 199);
 }
 
 @layer base {
